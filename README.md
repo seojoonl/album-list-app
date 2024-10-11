@@ -8,10 +8,6 @@ A Flutter-based mobile application that allows users to manage a personal collec
 - **Edit Albums**: Users can update the details of existing albums in their collection.
 - **View Albums**: A list of all saved albums is displayed, allowing users to view detailed information about each one.
 
-## Screenshots
-
-*Include a few screenshots here to give users a preview of the app.*
-
 ## Installation
 
 To run this project locally, follow these steps:
